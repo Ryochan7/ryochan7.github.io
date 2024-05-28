@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %} &ndash; {{ _('Categories') }}{% endblock %}
+
+{% block content %}
+<article class="single">
+  <header>
+    <h1 id="categories">{{ _('Categories') }}</h1>
+  </header>
+  <div>
+    <ul class="list">
+      {% for category, articles in categories|sort %}
+      <li>
+        <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a> ({{ articles|count }})
+        {% if CATEGORY_FEED_ATOM %}
+          <a href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM.format(slug=category.slug) }}"><i class="fa fa-rss" aria-hidden="true"></i></a>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</article>
+{% endblock %}
