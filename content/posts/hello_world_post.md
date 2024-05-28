@@ -7,7 +7,7 @@ Featured_image: images/keyboard_warrior.jpg
 Featured_image_alt: Mashing keyboard
 
 Hello world. Trying out Pelican SSG for creating a small blog and personal
-website. It might be better to have some form of online presense outside
+website. It might be better to have some form of online presence outside
 of social media so I want my own small website again.
 
 Using an SSG should work out fine for what functionality I want. I do
