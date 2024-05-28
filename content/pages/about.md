@@ -10,5 +10,5 @@ learning programming and I made some small utilities to solve my own
 problems. The two main popular projects that I have made were antimicro
 and DS4Windows.
 
-Nowadays, I would rather focus more on AFK activities rather than
+Nowadays, I would rather focus more on AFK activities as opposed to
 staring at a computer screen for hours on end.
