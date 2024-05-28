@@ -43,6 +43,7 @@ EXTERNAL_LINKS = (
 # Social widget
 SOCIAL = (
     ("github", "https://github.com/Ryochan7/"),
+    ("gitlab", "https://gitlab.com/ryochan7/"),
 )
 
 DEFAULT_PAGINATION = 20
@@ -69,12 +70,14 @@ DISABLE_URL_HASH = True
 MAIN_MENU = True
 
 MENUITEMS = (
-  ("Archives", "/archives.html"),
-  ("Categories", "/categories.html"),
-  ("Tags", "/tags.html"),
+  ("Archives", "archives.html"),
+  ("Categories", "categories.html"),
+  ("Tags", "tags.html"),
 )
 
 STATIC_PATHS = ['images', 'extra/favicon.png']
 EXTRA_PATH_METADATA = {
     'extra/favicon.png': {'path': 'favicon.png'}
 }
+
+CUSTOM_CSS = "theme/stylesheet/custom-style.min.css"
