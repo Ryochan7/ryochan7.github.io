@@ -18,6 +18,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
- DISQUS_SITENAME = "ryochan7-github-io"
+DISQUS_SITENAME = "ryochan7-github-io"
 #GOOGLE_ANALYTICS = ""
 GOOGLE_GLOBAL_SITE_TAG = "G-1GRQ5WVM79"
