@@ -6,4 +6,4 @@ status: hidden
 This website will serve as a test ground for posting about project
 updates, musings, and anything else that interest me at the moment.
 There is not much content right now but hopefully that will change.
-Most of my musing will be posted in the [Posts](/posts/).
+Most of my musing will be posted in [Posts](/posts/).
