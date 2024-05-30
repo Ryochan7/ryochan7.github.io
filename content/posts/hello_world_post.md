@@ -3,6 +3,7 @@ Date: 2024-05-26T18:10:34+0000
 Category: Misc
 Tags: blog
 Author: ryochan7
+Keywords: blog, ryochan7, pelican
 Featured_image: images/keyboard_warrior.jpg
 Featured_image_alt: Mashing keyboard
 

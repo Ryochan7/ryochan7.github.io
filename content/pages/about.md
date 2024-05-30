@@ -1,6 +1,7 @@
 Title: About
 Date: 2024-05-26T18:10:34+0000
 Modified: 2024-05-28T19:47:19+0000
+Keywords: about, ryochan7
 
 My name is Travis and I have been involved with open source /
 free software in some capacity since around 2002. I mainly started as

@@ -121,6 +121,7 @@
   {% block meta %}
     <meta name="author" content="{{ AUTHOR }}" />
     <meta name="description" content="{{ SITEDESCRIPTION }}" />
+    {% block extra_meta %}{% endblock %}
     {% include "partial/og.html" %}
   {% endblock %}
 

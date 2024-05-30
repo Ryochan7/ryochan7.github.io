@@ -1,7 +1,9 @@
 {% extends "base.html" %}
 
-{% block meta %}
-{{ super() }}
+{% block extra_meta %}
+{% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+{% endif %}
 
 {% if page.translations -%}
 <link rel="alternate" href="{{ SITEURL }}/{{ page.url }}" hreflang="{{ page.lang }}" />
