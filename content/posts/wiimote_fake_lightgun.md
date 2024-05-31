@@ -129,7 +129,7 @@ Played some Lethal Enforcers 2: Gun Fighters,
 Police Trainer, T2: The Arcade Game, Alien 3: The Gun, Jurassic Park,
 Duck Hunt.
 
-This section is getting long. I will briefly metion
+This section is getting long. I will briefly mention
 I also played around with Super Scope games for the Super Nintendo.
 Yoshi's Safari and Battle Clash are pretty fun. Super Scope 6
 is not as bad as some YouTube personalities make it out to be; the two modes
