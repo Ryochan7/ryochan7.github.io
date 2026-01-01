@@ -50,7 +50,7 @@ lightgun games in a long time, getting a working version of Square mode working 
 easier to configure and more accurate. Some small recent changes to DS4MapperTest really improved the performance of the app
 and made the output mouse cursor smoother.
 
-Getting DS4MapperTest moved to a different GUI toolkit would be a decent goal for 2025. Another goal is to finally
+Getting DS4MapperTest moved to a different GUI toolkit would be a decent goal for 2026. Another goal is to finally
 make some sort of Wiimote mapper utility built on .NET 8. I do not like having to keep being dependent on the old
 Touchmote application that is stuck on .NET Framework. Having an even better lightgun experience would make it somewhat worth
 making a small app for a niche controller in the current year.
