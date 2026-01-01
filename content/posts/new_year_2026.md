@@ -5,7 +5,7 @@ Tags: life
 Author: ryochan7
 Keywords: new year, nye, life, resolutions
 
-Still alive. Quick health update. My recent endoscopy came back clean with ony some minor visible throat irritation.
+Still alive. Quick health update. My recent endoscopy came back clean with only some minor visible throat irritation.
 
 2025 was a pretty bad year for the most part. I am not expecting 2026 to be much better to be honest.
 Hopefully I will be a bit more productive and not just wage cuck while ignoring my ambitions.
