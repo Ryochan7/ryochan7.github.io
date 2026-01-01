@@ -14,31 +14,31 @@ about 42% of my 2025 resolutions.
 
 ## Resolutions
 
-1. Bench 200 lbs.
+1\. Bench 200 lbs.
 
 I can currently bench 190 lbs. so I would think 200 lbs. would be doable pretty early in the year.
 That is a very conservative milestone. A bit higher of a goal would be to shot for 220 lbs. just for the
 220 meme (mentally unstable person meme in the DSP detractor circles). Hitting the gym more often
 and bumping up the numbers of other moves is also important.
 
-2. Study Japanese. Maybe take the JLPT N4 test at the end of the year
+2\. Study Japanese. Maybe take the JLPT N4 test at the end of the year
 
 This has been a failed resolution for at least the past couple of years. I got out of consooming
 any form of Japanese language media again. Got too busy with busy work. I knew by August that
 there was no way I would be ready to take the JLPT N4 test in December.
 
-3. Watch Magic Knight Rayearth all the way through
+3\. Watch Magic Knight Rayearth all the way through
 
 This goes along with studying Japanese more and this is a failed resolution from 2025. Been a passive
 fan of the series since I was a teenager and bought a couple VHS tapes of the series. I have never
 actually watched the series all the way through though. As a small aside, I think the only Clamp series I have
 seen all the way through is Chobits.
 
-4. Read more paper books. Go to the library more
+4\. Read more paper books. Go to the library more
 
 I started this one at bit last year. I still did not read as much as I originally wanted to.
 
-5. Try to embark on more controller mapper autism. Play more vidya
+5\. Try to embark on more controller mapper autism. Play more vidya
 
 In 2025, I barely had the time to play any video games. My two most played games according to Steam in 2025
 were Rocksmith 2014 and Mortal Kombat: Legacy Kollection. Most of that time was around Q4 2025. Between
