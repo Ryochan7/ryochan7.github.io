@@ -17,7 +17,7 @@ about 42% of my 2025 resolutions.
 1\. Bench 200 lbs.
 
 I can currently bench 190 lbs. so I would think 200 lbs. would be doable pretty early in the year.
-That is a very conservative milestone. A bit higher of a goal would be to shot for 220 lbs. just for the
+That is a very conservative milestone. A bit higher of a goal would be to shoot for 220 lbs. just for the
 220 meme (mentally unstable person meme in the DSP detractor circles). Hitting the gym more often
 and bumping up the numbers of other moves is also important.
 
