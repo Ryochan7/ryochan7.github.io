@@ -17,7 +17,7 @@ a tech to try to sell me services I did not really need
 (new radiator, new thermostat and housing).
 
 It was more a case of old bad coolant mixture
-that slugged over and clogged the radiator. It took a lot of radiator flushes
+that sludged over and clogged the radiator. It took a lot of radiator flushes
 to mostly clear the cooling system of gunk. Running the flushes showed that the
 car thermostat was working fine so there was no need to replace it. Overall, it
 costs about $200 to get the car in working order rather than around $2100 that
