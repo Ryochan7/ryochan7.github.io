@@ -1,5 +1,6 @@
 Title: Small Life Update. Car Works Now
 Date: 2026-08-10T14:38:10+0000
+Modified: 2026-08-23T21:22:44+0000
 Category: Life
 Tags: drama, life
 Author: ryochan7
@@ -23,6 +24,10 @@ car thermostat was working fine so there was no need to replace it. Overall, it
 costs about $200 to get the car in working order rather than around $2100 that
 the mechanic wanted to charge me.
 
-At least carlife is somewhat possible as long as I have gas money.
+At least car life is somewhat possible as long as I have gas money.
 Better than having to wander the streets.
+
+Updated: 2026-08-23
+
+![It's Happening]({static}/images/itshappening_ronpaul.gif)
 
