@@ -4,7 +4,7 @@ SITETITLE = SITENAME
 SITEURL = ""
 SITELOGO = "/images/5-talim-revealed-soul-calibur-6-new-gameplay-trailert.png"
 
-COPYRIGHT_YEAR = "2024"
+COPYRIGHT_YEAR = "2026"
 COPYRIGHT_NAME = "Ryochan7"
 
 PATH = "content"
